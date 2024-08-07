@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <style> 
+        p{
+            background-color: brown;
+        }
+        </style>
+    </head>
+
+    <body>
+    <p> Aku suka mobil </p>    
+    </body>
+</html>
